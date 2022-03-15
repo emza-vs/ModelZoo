@@ -1,1 +1,1 @@
-# Placeholder for SSD detector
+# SSD face detector
